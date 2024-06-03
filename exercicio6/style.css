@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    text-align: center;
+}
+.texto{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.botao{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
